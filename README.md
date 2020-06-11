@@ -19,7 +19,7 @@
 
 ## 인게임
 
-<img src="https://github.com/NameLoki/CardMemory/blob/master/image/2.jpg">
+<img src="https://github.com/NameLoki/CardMemory/blob/master/image/3.jpg">
 
 ### 스테이지별 카드 갯수가 다름
 ### 스테이지별 제한 시간이 다름
@@ -30,7 +30,7 @@
 
 ## 
 
-<img src="https://github.com/NameLoki/CardMemory/blob/master/image/3.jpg">
+<img src="https://github.com/NameLoki/CardMemory/blob/master/image/2.jpg">
 
 ### 플레이 결과를 표시해줌
 ### 신기록 달성시 기록을 저장해줌
