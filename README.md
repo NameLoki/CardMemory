@@ -1,5 +1,5 @@
-<h1>Cardmemory</h1>
-<img src="https://github.com/NameLoki/CardMemory/master/image/logo.png">
+# CardMemory
+<img src="https://github.com/NameLoki/CardMemory/blob/master/image/logo.png">
 ## 개발기간
 ### 2020.05.25 ~ 2020.05.27
 ## 개발 목표
