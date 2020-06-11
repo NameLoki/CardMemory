@@ -28,7 +28,7 @@
 
 <hr>
 
-## 
+## 결과화면
 
 <img src="https://github.com/NameLoki/CardMemory/blob/master/image/2.jpg">
 
