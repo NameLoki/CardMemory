@@ -14,6 +14,9 @@
 
 ### 자신의 최고 점수를 확인 가능함
 ### 나가기 버튼
+
+<hr>
+
 ## 인게임
 
 <img src="https://github.com/NameLoki/CardMemory/blob/master/image/2.jpg">
@@ -22,6 +25,10 @@
 ### 스테이지별 제한 시간이 다름
 ### 스테이지별 올라가는 점수가 다름
 ### 시간이 다되면 다음 스테이지로 넘어가고 마지막 스테이지면 결과 화면을 표시해줌
+
+<hr>
+
+## 
 
 <img src="https://github.com/NameLoki/CardMemory/blob/master/image/3.jpg">
 
